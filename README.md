@@ -1,15 +1,15 @@
-#id.cv Gigs: A Decentralized Freelancer Job Portal Built on StarkNet
+# id.cv Gigs: A Decentralized Freelancer Job Portal Built on StarkNet
 ##Introduction
 id.cv Gigs is an innovative decentralized freelancer job portal developed by the same team that created the id.cv decentralized resume platform during HackFS. This project is being further developed during StarkHack, leveraging the capabilities of StarkNet to provide a secure, transparent, and efficient platform for companies and freelancers to connect and collaborate. Our goal with id.cv Gigs is to ensure trust, transparency, and security for all users.
 
-##Key Features
+## Key Features
 - Decentralized Platform on StarkNet: Built on StarkNet, id.cv Gigs ensures that all data and transactions are secure, transparent, and immutable.
 - Company Registration and Job Posting: Companies can easily register on the platform and post job listings. These listings are visible to a global network of freelancers.
 - Freelancer Applications: Freelancers can browse job listings, apply for suitable positions, and showcase their decentralized resumes from id.cv.
 - Milestone-Based Payments: The platform allows for milestone-based payments. Freelancers receive payments upon the successful completion of each project milestone, ensuring fairness and motivation.
 - Approval System: Job posters have the ability to review applications, approve suitable candidates, and manage project milestones.
 
-##Partners and Technologies
+## Partners and Technologies
 To enhance the functionality and security of id.cv Gigs, we are collaborating with several partners and integrating advanced technologies:
 
 - Herodotus: We are using Herodotus for decentralized identity verification and credential management. This ensures that both companies and freelancers have verified identities, reducing the risk of fraud.
